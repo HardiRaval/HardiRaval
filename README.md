@@ -1,16 +1,16 @@
 ![MasterHead](https://i.ytimg.com/vi/f02mOEt11OQ/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Hardi</h1>
-<h3 align="center">A passionate Business Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst based in the USA </h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a7/2b/1a/a72b1aa94154e5ce6a1e1efaed96e424.jpg"> 
 
-- 🌱 I’m currently learning **Data Analyst & Coding**
+- 🌱 I’m currently learning **Currently learning advanced data visualization techniques**
 
 - 💬 Ask me about **Data & Business Analysis**
 
 - 📫 How to reach me **Hardi.raval.98@gmail.com**
 
-- ⚡ Fun fact **I am Researcher**
+- ⚡ Fun fact **I am turning raw data into actionable insights & Helping businesses make data-driven decisions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

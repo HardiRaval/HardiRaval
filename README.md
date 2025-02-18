@@ -28,7 +28,7 @@
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="mysql" width="50" height="50"/> </a>
  </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.svg" alt="mysql" width="50" height="50"/> </a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="70" height="50"/> 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="80" height="50"/> 
  </a>
  </a> <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg.png" alt="mysql" width="50" height="50"/> </a>
  </p>

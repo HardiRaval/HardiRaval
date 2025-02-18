@@ -12,6 +12,10 @@
 
 - ⚡ Fun fact **I am turning raw data into actionable insights & Helping businesses make data-driven decisions.**
 
+- "Data is the language of powerholders" – Jodi Petersen
+
+- Feel free to connect with me on LinkedIn or explore my projects.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hardi-raval96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardi-raval96" height="30" width="40" /></a>

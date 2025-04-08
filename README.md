@@ -12,7 +12,7 @@
 - **Languages:** Python, SQL, R
 - **Data Tools:** Power BI, Tableau, Excel, Pandas, NumPy
 - **Databases:** MySQL, PostgreSQL, MS SQL Server
-- **Others:** Git, Jupyter, VS Code, Google Sheets
+- **Others:** Git, Jupyter, JMP (Statistical software), Google Sheets, Data Mining, Data Cleaning
 
 ---
 

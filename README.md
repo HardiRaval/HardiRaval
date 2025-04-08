@@ -18,7 +18,7 @@
 
 ### 📌 Featured Projects
 
-### [🎬 Netflix Data Exploration](https://github.com/HardiRaval/Netflix-Movies-Data-Exploration)
+### [🎬 Netflix Data Exploration](https://github.com/HardiRaval/Tableau_Project)
 Explored Netflix movie trends by genre, duration, and release year using SQL and Python.
 - Identified patterns in content offerings and popularity.
 - Visualized genre evolution over time.
@@ -33,14 +33,14 @@ Analyzed customer preferences and coffee shop reviews using Tableau and Yelp dat
 - Tools: Tableau, MS Excel
 
 ---
-### [📦 Superstore Sales Analysis](https://github.com/HardiRaval/Superstore-Sales-Analysis)
+### [📦 Superstore Sales Analysis](https://github.com/HardiRaval/PowerBI_Projects)
 Analyzed sales data to understand regional performance and product profitability.
 - Uncovered key drivers of high-profit segments.
 - Suggested data-backed strategies to boost sales.
 - Tools: Power BI, MS Excel
 ---
 
-### [💧 Water Potability Prediction](https://github.com/HardiRaval/Water_Potability_Analysis)
+### [💧 Water Potability Prediction](https://github.com/HardiRaval/Data_Mining_Project)
 Used machine learning to predict if water is safe for consumption based on chemical properties.
 - Conducted exploratory data analysis and handled missing values.
 - Applied classification algorithms (Logistic Regression, Random Forest) to predict potability.

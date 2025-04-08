@@ -22,7 +22,7 @@
 Explored Netflix movie trends by genre, duration, and release year using SQL and Python.
 - Identified patterns in content offerings and popularity.
 - Visualized genre evolution over time.
-- Tools: SQL, Python, Seaborn
+- Tools: Tableau, MS Excel
 
 ---
 
@@ -30,21 +30,22 @@ Explored Netflix movie trends by genre, duration, and release year using SQL and
 Analyzed customer preferences and coffee shop reviews using Tableau and Yelp data to drive business insights.
 - Created interactive dashboards to show regional trends and product performance.
 - Performed word frequency and sentiment analysis from reviews.
-- Tools: Tableau, Python, Pandas
+- Tools: Tableau, MS Excel
 
----
-
-### [📈 COVID-19 Global Trends](https://github.com/HardiRaval/Covid19-DataAnalysis)
-Performed data exploration and visualization of COVID-19 global cases using Python.
-- Tracked case and recovery trends over time and across countries.
-- Visualized key patterns and government policy impacts.
-- Tools: Python, Pandas, Matplotlib
 ---
 ### [📦 Superstore Sales Analysis](https://github.com/HardiRaval/Superstore-Sales-Analysis)
 Analyzed sales data to understand regional performance and product profitability.
 - Uncovered key drivers of high-profit segments.
 - Suggested data-backed strategies to boost sales.
-- Tools: Python, Pandas, Excel
+- Tools: Power BI, MS Excel
+---
+
+### [💧 Water Potability Prediction](https://github.com/HardiRaval/Water_Potability_Analysis)
+Used machine learning to predict if water is safe for consumption based on chemical properties.
+- Conducted exploratory data analysis and handled missing values.
+- Applied classification algorithms (Logistic Regression, Random Forest) to predict potability.
+- Evaluated model performance using accuracy, precision, and recall.
+- Tools: Python, Pandas, Scikit-learn, Matplotlib
 
 *For More Check Repository..*
 

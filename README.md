@@ -18,13 +18,35 @@
 
 ### 📌 Featured Projects
 
-- 📊 [Tableau Coffee Chain Analysis](https://github.com/HardiRaval/Tableau_Coffee)  
-  Visualized customer preferences, reviews, and consumption patterns using Tableau and Yelp data.
+### [🎬 Netflix Data Exploration](https://github.com/HardiRaval/Netflix-Movies-Data-Exploration)
+Explored Netflix movie trends by genre, duration, and release year using SQL and Python.
+- Identified patterns in content offerings and popularity.
+- Visualized genre evolution over time.
+- Tools: SQL, Python, Seaborn
 
-- 🦠 [COVID-19 Data Analysis](https://github.com/HardiRaval/Covid19-DataAnalysis)  
-  Analyzed global COVID trends using Python and Pandas, including visualizations and insights.
+---
 
-*More coming soon…*
+### [📊 Tableau Coffee Chain Analysis](https://github.com/HardiRaval/Tableau_Coffee)
+Analyzed customer preferences and coffee shop reviews using Tableau and Yelp data to drive business insights.
+- Created interactive dashboards to show regional trends and product performance.
+- Performed word frequency and sentiment analysis from reviews.
+- Tools: Tableau, Python, Pandas
+
+---
+
+### [📈 COVID-19 Global Trends](https://github.com/HardiRaval/Covid19-DataAnalysis)
+Performed data exploration and visualization of COVID-19 global cases using Python.
+- Tracked case and recovery trends over time and across countries.
+- Visualized key patterns and government policy impacts.
+- Tools: Python, Pandas, Matplotlib
+---
+### [📦 Superstore Sales Analysis](https://github.com/HardiRaval/Superstore-Sales-Analysis)
+Analyzed sales data to understand regional performance and product profitability.
+- Uncovered key drivers of high-profit segments.
+- Suggested data-backed strategies to boost sales.
+- Tools: Python, Pandas, Excel
+
+*For More Check Repository..*
 
 ---
 

@@ -19,7 +19,7 @@
 ### 📌 Featured Projects
 
 ### [🎬 Netflix Data Exploration](https://github.com/HardiRaval/Tableau_Project)
-Explored Netflix movie trends by genre, duration, and release year using SQL and Python.
+Explored Netflix movie trends by genre, duration, and release year using Data visualization.
 - Identified patterns in content offerings and popularity.
 - Visualized genre evolution over time.
 - Tools: Tableau, MS Excel

@@ -6,7 +6,12 @@
 📊 Passionate about turning data into actionable insights  
 
 ---
+## 🧠 Research Publication
+Investigating Potential Physiological Indicators of Attention
+Accepted for presentation at HCII 2025 – 19th International Conference on Augmented Cognition
+To be published in Springer Lecture Notes in Computer Science (LNCS) – Late Breaking Papers (June 2025)
 
+---
 ### 🔧 Tools & Technologies I Work With
 
 - **Languages:** Python, SQL, R
@@ -32,13 +37,6 @@ Analyzed customer preferences and coffee shop reviews using Tableau and Yelp dat
 - Performed word frequency and sentiment analysis from reviews.
 - Tools: Tableau, MS Excel
 
----
-### [📦 Superstore Sales Analysis](https://github.com/HardiRaval/PowerBI_Projects)
-Analyzed sales data to understand regional performance and product profitability.
-- Uncovered key drivers of high-profit segments.
-- Suggested data-backed strategies to boost sales.
-- Tools: Power BI, MS Excel
----
 
 ### [💧 Water Potability Prediction](https://github.com/HardiRaval/Data_Mining_Project)
 Used machine learning to predict if water is safe for consumption based on chemical properties.

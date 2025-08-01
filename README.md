@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Hardi Raval
 
-🎓 Master’s in Data Analytics (Graduating May 2025)  
+🎓 Master’s in Data Analytics (Graduated May 2025)  
 💼 4.9 years of experience as a Business Analyst in India  
-🌎 Currently based in Houston, TX — open to full-time roles (Data Analyst, Analytics Engineer, Marketing Analyst, Business Insights, Python Analyst)  
+🌎 Currently based in Houston, TX — open to full-time roles (Data Analyst, Analytics Engineer, Marketing Analyst, Business Insights, Customer Insights)  
 📊 Passionate about turning data into actionable insights  
 
 ---

@@ -30,20 +30,6 @@ I’m a data-driven analyst with experience transforming operational, financial,
 
 ---
 
-## 📊 Featured Projects
-> *(More projects coming — currently refining dashboards and case studies)*
-
-- **Sales & Operations Dashboard**  
-  Power BI dashboard tracking revenue, refunds, fulfillment status, and operational KPIs  
-
-- **E-commerce Order Analysis**  
-  SQL + Excel project analyzing order volume, category performance, and customer behavior  
-
-- **Financial Reporting Automation**  
-  Excel & Power BI reports supporting month-end close and audit readiness  
-
----
-
 ## 💼 Professional Background
 - Business & Reporting Analyst / Accounting Analyst  
 - Experience with **Amazon, Walmart, Home Depot** operational data  

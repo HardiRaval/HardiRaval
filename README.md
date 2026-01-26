@@ -1,69 +1,68 @@
-### 👋 Hi, I'm Hardi Raval
+# Hi, I'm Hardi 👋  
+### Business & Data Analytics | Reporting | Operations Intelligence
 
-🎓 Master’s in Data Analytics (Graduated May 2025)  
-💼 4.9 years of experience as a Business Analyst in India  
-🌎 Currently based in Houston, TX — open to full-time roles (Data Analyst, Analytics Engineer, Marketing Analyst, Business Insights, Customer Insights)  
-📊 Passionate about turning data into actionable insights  
-
----
-## 🧠 Research Publication
-Investigating Potential Physiological Indicators of Attention
-Accepted for presentation at HCII 2025 – 19th International Conference on Augmented Cognition
-To be published in Springer Lecture Notes in Computer Science (LNCS) – Late Breaking Papers (June 2025)
-
----
-### 🔧 Tools & Technologies I Work With
-
-- **Languages:** Python, SQL, R
-- **Data Tools:** Power BI, Tableau, Excel, Pandas, NumPy
-- **Databases:** MySQL, PostgreSQL, MS SQL Server
-- **Others:** Git, Jupyter, JMP (Statistical software), Google Sheets, Data Mining, Data Cleaning
+I’m a data-driven analyst with experience transforming operational, financial, and marketplace data into clear insights that support decision-making and process improvement. I enjoy working at the intersection of **business operations, analytics, and reporting**, where data directly impacts outcomes.
 
 ---
 
-### 📌 Featured Projects
-
-### [🎬 Netflix Data Exploration](https://github.com/HardiRaval/Tableau_Project)
-Explored Netflix movie trends by genre, duration, and release year using Data visualization.
-- Identified patterns in content offerings and popularity.
-- Visualized genre evolution over time.
-- Tools: Tableau, MS Excel
+## 🚀 What I Do
+- Build **dashboards and reports** that leadership actually uses  
+- Analyze **sales, finance, and operations data** to uncover trends and inefficiencies  
+- Translate raw data into **actionable business insights**  
+- Support cross-functional teams with **accurate reporting & automation**
 
 ---
 
-### [📊 Tableau Coffee Chain Analysis](https://github.com/HardiRaval/Tableau_Coffee)
-Analyzed customer preferences and coffee shop reviews using Tableau and Yelp data to drive business insights.
-- Created interactive dashboards to show regional trends and product performance.
-- Performed word frequency and sentiment analysis from reviews.
-- Tools: Tableau, MS Excel
+## 🧰 Tools & Technologies
+**Analytics & BI**  
+- Power BI | Tableau | Excel (Advanced)  
+- SQL | Python | R  
 
+**Data & Business Skills**  
+- KPI & Performance Reporting  
+- Data Cleaning & Validation  
+- Forecasting & Trend Analysis  
+- Process Improvement & Documentation  
 
-### [💧 Water Potability Prediction](https://github.com/HardiRaval/Data_Mining_Project)
-Used machine learning to predict if water is safe for consumption based on chemical properties.
-- Conducted exploratory data analysis and handled missing values.
-- Applied classification algorithms (Logistic Regression, Random Forest) to predict potability.
-- Evaluated model performance using accuracy, precision, and recall.
-- Tools: Python, Pandas, Scikit-learn, Matplotlib
-
-*For More Check Repository..*
-
----
-
-### 🔍 What I’m Looking For
-I’m open to full-time roles in:
-- Data Analytics
-- Business Insights
-- Marketing/Customer Data
-- Analytics Engineering
-- Python/SQL-based roles
-
-I’m open to **remote**, **hybrid**, or **on-site** roles in the USA. Open to OPT roles (no future sponsorship needed).
+**Work Tools**  
+- Microsoft 365 | SAP | ERP Systems  
+- Jira | Asana | Monday.com  
 
 ---
 
-📫 **Let’s Connect!**
+## 📊 Featured Projects
+> *(More projects coming — currently refining dashboards and case studies)*
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hardi-raval96)
-- 📧 hardiraval96@gmail.com
+- **Sales & Operations Dashboard**  
+  Power BI dashboard tracking revenue, refunds, fulfillment status, and operational KPIs  
+
+- **E-commerce Order Analysis**  
+  SQL + Excel project analyzing order volume, category performance, and customer behavior  
+
+- **Financial Reporting Automation**  
+  Excel & Power BI reports supporting month-end close and audit readiness  
+
+---
+
+## 💼 Professional Background
+- Business & Reporting Analyst / Accounting Analyst  
+- Experience with **Amazon, Walmart, Home Depot** operational data  
+- Strong exposure to **finance, supply chain, and operations reporting**
+
+---
+
+## 🎓 Education
+**Master’s in Data Analytics**  
+Graduated: May 2025  
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: *(https://www.linkedin.com/in/hardi-raval96)*  
+- 📧 Email: *(hardiraval16@gmail.com)*  
+
+---
+
+⭐ *If you like my work or find my projects useful, feel free to star or connect!*
 
 

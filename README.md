@@ -31,10 +31,7 @@
   <img src="https://streak-stats.demolab.com?user=HardiRaval&theme=github-dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=HardiRaval&hide_border=true&theme=github-dark-blue&ring=F2C811&fire=F2C811&currStreakLabel=4E79A7" />
-</p>
-
+<p align="center"> <img src="https://streak-stats.demolab.com?user=HardiRaval&theme=github-dark&hide_border=true"/> </p>
 ---
 
 

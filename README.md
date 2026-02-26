@@ -31,6 +31,11 @@
   <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HardiRaval&show_icons=true&theme=github_dark&hide_border=true"/>
   <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HardiRaval&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HardiRaval&theme=github-dark&hide_border=true"/>
+</p>
+
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HardiRaval&theme=github-compact&hide_border=true&line=F2C811&point=4E79A7" />
 </p>

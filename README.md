@@ -35,19 +35,10 @@
   <img width="60%" src="https://streak-stats.demolab.com?user=HardiRaval&hide_border=true&theme=github-dark-blue&ring=F2C811&fire=F2C811&currStreakLabel=4E79A7" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=HardiRaval&style=for-the-badge&color=blue" />
 ---
 
-### 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-
-
-
-## 🧰 BI / Analytics Stack (Power BI + Tableau Theme)
+## 🧰 BI / Analytics Stack (Power BI + Tableau)
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Dashboards-F2C811?style=flat&logo=powerbi&logoColor=000" />
   <img src="https://img.shields.io/badge/Tableau-Storytelling-4E79A7?style=flat&logo=tableau&logoColor=fff" />

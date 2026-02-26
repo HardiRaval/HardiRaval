@@ -28,10 +28,9 @@
 
 ## 📈 Live GitHub Analytics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HardiRaval&show_icons=true&hide_border=true&theme=github_dark&title_color=F2C811&icon_color=F2C811" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardiRaval&layout=compact&hide_border=true&theme=github_dark&title_color=4E79A7" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HardiRaval&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HardiRaval&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HardiRaval&theme=github-compact&hide_border=true&line=F2C811&point=4E79A7" />
 </p>
